@@ -1,0 +1,19 @@
+# Captured session data -- never commit real tokens or payloads
+token.txt
+payload.json
+
+# Generated data folders
+submarket_payloads/
+raw_data/
+payload_templates/
+submarket_definitions/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
